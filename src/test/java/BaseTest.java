@@ -3,8 +3,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterTest;
 
 import java.time.Duration;
+import java.util.Optional;
 
 public class BaseTest {
     WebDriver driver;
@@ -21,5 +23,12 @@ public class BaseTest {
 
     public void navigateTo(String url){
         this.driver.navigate().to(url);
+    }
+
+    @AfterTest
+    public void tearDown(){
+        if(Optional.of(this.driver).isPresent()){
+            this.driver.quit();
+        }
     }
 }

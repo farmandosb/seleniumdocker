@@ -1,0 +1,7 @@
+<suite name="testSuite">
+    <test name="homeTest">
+        <classes>
+            <class name="seleniumdocker.tests.HomeTests"/>
+        </classes>
+    </test>
+</suite>

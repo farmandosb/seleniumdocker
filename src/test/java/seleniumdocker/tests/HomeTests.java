@@ -1,4 +1,5 @@
-import org.openqa.selenium.support.ui.ExpectedCondition;
+package seleniumdocker.tests;
+
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
 import seleniumdocker.pages.Home;

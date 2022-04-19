@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a67f202-a616-4912-ab99-5038d9d1d8ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_36.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_18_2022_9_52_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_18_2022_9_52_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seleniumdocker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumdocker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="4a67f202-a616-4912-ab99-5038d9d1d8ee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

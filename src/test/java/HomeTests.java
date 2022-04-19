@@ -6,7 +6,7 @@ import seleniumdocker.pages.Home;
 public class HomeTests extends BaseTest{
 
     @Test
-    public void Home_EnterValidEmail_RegistrationSucceeds() throws InterruptedException {
+    public void Home_EnterValidEmail_RegistrationSucceeds() {
         this.navigateTo("http://demo.automationtesting.in/Index.html");
         Home home = new Home(this.driver);
 
